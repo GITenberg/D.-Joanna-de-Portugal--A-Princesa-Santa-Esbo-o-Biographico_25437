@@ -1,0 +1,34 @@
+_repo: D.-Joanna-de-Portugal--A-Princesa-Santa-Esbo-o-Biographico_25437
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gomes, Marques
+    aliases:
+    - Gomes, Joao Augusto Marques
+    - Gomes, João Augusto Marques
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '28415'
+    url: http://www.gutenberg.org/2009/agents/28415
+    wikipedia: http://pt.wikipedia.org/wiki/João_Augusto_Marques_Gomes
+description: ''
+gutenberg_bookshelf: PT Biografia
+gutenberg_issued: '2008-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25437'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian saints -- Portugal -- Biography'
+- !lcsh 'Joanna, Princess of Portugal, 1452-1490'
+- !lcc 'DP'
+title: 'D. Joanna de Portugal (A Princesa Santa)
+
+  Esboço Biographico'
+url: http://www.gutenberg.org/ebooks/25437
